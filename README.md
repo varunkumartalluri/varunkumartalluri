@@ -1,63 +1,65 @@
-<h1 align="center">Hi 👋, I'm Varun Reddy</h1>
+<h1 align="center">VARUN KUMAR REDDY</h1>
 
-<h3 align="center">Computer Science Graduate | Software Developer | Cloud & AI Enthusiast</h3>
+<h3 align="center">
+  Computer Science Graduate | Software Developer | Database & Cloud Enthusiast
+</h3>
+
+<p align="center">
+  Building practical solutions through software engineering, data and emerging technologies.
+</p>
 
 <p align="center">
   <a href="https://github.com/varunkumartalluri">
-    <img src="https://komarev.com/ghpvc/?username=varunkumartalluri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## ABOUT
 
-* 🎓 Computer Science and Engineering Graduate.
-* 💻 Interested in Software Development and Database Technologies.
-* 🐍 Working with Python, JavaScript and SQL.
-* 🗄️ Interested in Database Management and Cloud Technologies.
-* ☁️ Exploring Oracle Cloud, AWS and Cloud Computing.
-* 🤖 Exploring Artificial Intelligence and Agentic AI.
-* 🚀 Passionate about building practical projects and continuously improving my technical skills.
+I am a Computer Science and Engineering graduate interested in building reliable software solutions and understanding the technologies behind modern applications.
 
----
+My technical interests include backend development, database systems, cloud computing and artificial intelligence.
 
-## 🎯 Current Focus
+I enjoy exploring how applications work internally, designing efficient data-driven solutions and learning technologies that solve real-world problems.
 
-* Strengthening Python and SQL fundamentals.
-* Learning Cloud Computing and Oracle Cloud ERP.
-* Exploring Agentic AI and Generative AI.
-* Improving problem-solving and software development skills.
+* Background in Computer Science and Engineering.
+* Experience building full-stack applications.
+* Hands-on academic project experience in Deep Learning and Computer Vision.
+* Interested in database technologies, SQL and backend systems.
+* Exploring Cloud Computing, Oracle Cloud ERP and Agentic AI.
+* Continuously strengthening programming and problem-solving skills.
 
 ---
 
-## 🛠️ Technical Skills
+## TECHNICAL SKILLS
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,c" />
-</p>
-
-### Web Development
+**Programming Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,js,java,c" />
 </p>
 
-### Databases
+**Databases & Backend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs,express" />
 </p>
 
-### AI & Machine Learning
+**Frontend Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+**AI & Machine Learning**
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,python" />
 </p>
 
-### Tools & Platforms
+**Development Tools**
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -65,51 +67,69 @@
 
 ---
 
-## 🚀 Featured Projects
+## FEATURED PROJECTS
 
-### 1. Alzheimer's Disease Detection
+### 01. Deep Learning-Based Alzheimer's Disease Detection
 
-Deep Learning-based Alzheimer's disease classification using InceptionV3 and structural MRI images.
+A deep learning project focused on classifying Alzheimer's disease stages using structural MRI images.
 
-**Technologies:** Python, TensorFlow, InceptionV3, Flask.
+* Implemented transfer learning using InceptionV3.
+* Worked with MRI image preprocessing and classification.
+* Explored multi-class disease classification.
+* Developed a Flask-based application for model integration.
 
-### 2. Expense Tracker
+**Technologies:** Python, TensorFlow, InceptionV3, Flask, Deep Learning.
 
-A full-stack expense management application built to track and manage personal expenses.
+### 02. Expense Tracker
+
+A full-stack web application designed to manage and track personal expenses.
+
+* Developed frontend and backend components.
+* Integrated MongoDB for data management.
+* Implemented application functionality using the MERN stack.
 
 **Technologies:** MongoDB, Express.js, React.js, Node.js.
 
-### 3. Salary Prediction
+### 03. Salary Prediction
 
-A machine learning project focused on predicting salary using relevant input features.
+A machine learning project exploring predictive modelling using Python and relevant datasets.
 
-**Technologies:** Python, Machine Learning.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunkumartalluri&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumartalluri&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=varunkumartalluri&theme=github-dark-blue&hide_border=true" />
-</p>
+**Technologies:** Python, Machine Learning, Data Analysis.
 
 ---
 
-## 🤝 Connect With Me
+## CURRENT LEARNING
+
+| Area                    | Focus                                            |
+| ----------------------- | ------------------------------------------------ |
+| Programming             | Python and problem solving                       |
+| Databases               | SQL, database concepts and query optimization    |
+| Cloud Computing         | Cloud fundamentals and Oracle Cloud ERP          |
+| Artificial Intelligence | Generative AI and Agentic AI                     |
+| Software Engineering    | Backend development and application architecture |
+
+---
+
+## GITHUB STATISTICS
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=varunkumartalluri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumartalluri&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## CONNECT
+
+<p align="left">
   <a href="https://github.com/varunkumartalluri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Learning continuously. Building consistently. Growing every day.</i>
+  <i>Learning with purpose. Building with consistency. Engineering for impact.</i>
 </p>
+
