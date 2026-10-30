@@ -1,4 +1,4 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ==================== HEADER ==================== -->
 
 <h1 align="center">Hi 👋, I'm Varun Kumar Reddy</h1>
 
@@ -7,35 +7,51 @@
 </h3>
 
 <p align="center">
-  Building practical solutions through programming, data and emerging technologies.
+  Building practical solutions through software engineering, data and emerging technologies.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=varunkumartalluri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
+<p align="center">
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/varunkumartalluri">
+    <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</p>
+
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ==================== ABOUT ME ==================== -->
 
 ## 👨‍💻 About Me
 
-I am a Computer Science and Engineering graduate passionate about software development, database technologies, data analytics and artificial intelligence.
+I am a Computer Science and Engineering graduate interested in software development, database technologies, data analytics and artificial intelligence.
 
-I enjoy solving technical problems, exploring new technologies and building applications that address real-world challenges.
+I enjoy solving technical problems, exploring new technologies and developing applications that address real-world challenges.
 
-- 🎓 Computer Science and Engineering Graduate.
-- 💻 Interested in Software Development and Backend Engineering.
-- 🐍 Practicing Data Structures and Algorithms using Python.
-- 🗄️ Interested in SQL, MySQL and Database Management.
-- 📊 Exploring Data Analytics and Business Intelligence.
-- 🤖 Academic project experience in Machine Learning and Deep Learning.
-- ☁️ Exploring Cloud Computing and Oracle Cloud ERP.
-- 🚀 Continuously learning and building practical projects.
+* 🎓 Computer Science and Engineering Graduate.
+* 💻 Interested in Software Development and Backend Engineering.
+* 🐍 Practicing Data Structures and Algorithms using Python.
+* 🗄️ Interested in SQL, MySQL and Database Management.
+* 📊 Exploring Data Analytics and Business Intelligence.
+* 🤖 Hands-on academic project experience in Machine Learning and Deep Learning.
+* ☁️ Exploring Cloud Computing and Oracle Cloud ERP.
+* 🚀 Continuously learning and building practical projects.
 
 ---
 
-<!-- ===================== TECHNICAL SKILLS ===================== -->
+<!-- ==================== TECHNICAL SKILLS ==================== -->
 
 ## 🛠️ Technical Skills
 
@@ -48,7 +64,7 @@ I enjoy solving technical problems, exploring new technologies and building appl
 ### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind" />
 </p>
 
 ### Databases
@@ -57,21 +73,21 @@ I enjoy solving technical problems, exploring new technologies and building appl
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
 ### AI & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,python" />
 </p>
 
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 ---
 
-<!-- ===================== SDE PREPARATION ===================== -->
+<!-- ==================== SDE PREPARATION ==================== -->
 
 ## 🧩 Software Development Engineering (SDE) Preparation
 
@@ -97,11 +113,11 @@ Currently strengthening my problem-solving abilities and preparing for Software 
 `Recursion` `Backtracking` `Greedy Algorithms`
 `Dynamic Programming`
 
-**Primary Programming Language:** 🐍 Python
+**Primary DSA Language:** 🐍 Python
 
 ---
 
-<!-- ===================== DATA ANALYTICS ===================== -->
+<!-- ==================== DATA ANALYTICS ==================== -->
 
 ## 📊 Data & Analytics
 
@@ -109,18 +125,18 @@ Interested in transforming raw data into meaningful insights through database qu
 
 ### Core Skills
 
-- SQL
-- MySQL
-- Power BI
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Database Queries
-- Exploratory Data Analysis
+* SQL
+* MySQL
+* Power BI
+* Data Cleaning
+* Data Analysis
+* Data Visualization
+* Database Queries
+* Exploratory Data Analysis
 
 ---
 
-<!-- ===================== MACHINE LEARNING ===================== -->
+<!-- ==================== MACHINE LEARNING ==================== -->
 
 ## 🤖 Machine Learning & Artificial Intelligence
 
@@ -128,52 +144,54 @@ Hands-on academic project experience in machine learning and deep learning, with
 
 ### Technical Skills
 
-- Machine Learning
-- Deep Learning
-- TensorFlow & Keras
-- Convolutional Neural Networks (CNN)
-- Computer Vision
-- Transfer Learning
-- InceptionV3
-- Image Classification
-- Model Evaluation
+* Machine Learning
+* Deep Learning
+* TensorFlow & Keras
+* Convolutional Neural Networks (CNN)
+* Computer Vision
+* Transfer Learning
+* InceptionV3
+* Image Classification
+* Model Evaluation
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
 ## 🚀 Featured Projects
 
-### 1. Deep Learning-Based Alzheimer's Disease Detection
+### 01. Deep Learning-Based Alzheimer's Disease Detection
 
 A deep learning project focused on detecting and classifying Alzheimer's disease stages using structural MRI images.
 
-**Key Highlights:**
-- Implemented transfer learning using InceptionV3.
-- Performed MRI image preprocessing and normalization.
-- Developed a multi-class image classification model.
-- Integrated the trained model with a Flask application.
-- Evaluated model performance using multiple metrics.
+**Key Highlights**
+
+* Implemented transfer learning using InceptionV3.
+* Performed MRI image preprocessing and normalization.
+* Developed a multi-class image classification model.
+* Integrated the trained model with a Flask application.
+* Evaluated model performance using multiple metrics.
 
 **Technologies:** `Python` `TensorFlow` `InceptionV3` `Flask` `Deep Learning`
 
 ---
 
-### 2. Expense Tracker
+### 02. Expense Tracker
 
 A full-stack web application designed to manage and track personal expenses.
 
-**Key Highlights:**
-- Developed a full-stack application using MERN architecture.
-- Integrated MongoDB for data storage.
-- Implemented frontend and backend functionality.
-- Designed an interface for managing expenses.
+**Key Highlights**
+
+* Developed a full-stack application using MERN architecture.
+* Integrated MongoDB for data storage.
+* Implemented frontend and backend functionality.
+* Designed an interface for managing expenses.
 
 **Technologies:** `MongoDB` `Express.js` `React.js` `Node.js`
 
 ---
 
-### 3. Salary Prediction
+### 03. Salary Prediction
 
 A machine learning project focused on predicting salary using relevant input features and predictive modelling techniques.
 
@@ -181,53 +199,52 @@ A machine learning project focused on predicting salary using relevant input fea
 
 ---
 
-<!-- ===================== CURRENT LEARNING ===================== -->
+<!-- ==================== CURRENT LEARNING ==================== -->
 
-## 🎯 Currently Learning
+## 🎯 Current Focus
 
-| Domain | Learning Focus |
-|---|---|
-| Programming | Python, DSA and Problem Solving |
-| Databases | SQL, MySQL and Database Management |
-| Cloud Computing | Cloud Fundamentals and Oracle Cloud ERP |
-| Artificial Intelligence | Generative AI and Agentic AI |
-| Software Development | Backend Development and Application Architecture |
+| Domain                  | Learning Focus                                   |
+| :---------------------- | :----------------------------------------------- |
+| Programming             | Python, DSA and Problem Solving                  |
+| Databases               | SQL, MySQL and Database Management               |
+| Cloud Computing         | Cloud Fundamentals and Oracle Cloud ERP          |
+| Artificial Intelligence | Generative AI and Agentic AI                     |
+| Software Development    | Backend Development and Application Architecture |
 
 ---
 
-<!-- ===================== GITHUB STATISTICS ===================== -->
+<!-- ==================== GITHUB STATISTICS ==================== -->
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=varunkumartalluri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumartalluri&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=varunkumartalluri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumartalluri&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=varunkumartalluri&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=varunkumartalluri&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+<!-- ==================== CONNECT ==================== -->
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/varunkumartalluri">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/varunkumartalluri">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
 </p>
 
@@ -238,5 +255,5 @@ A machine learning project focused on predicting salary using relevant input fea
 </p>
 
 <p align="center">
-  ⭐ Thank you for visiting my profile!
+  Thank you for visiting my profile!
 </p>
